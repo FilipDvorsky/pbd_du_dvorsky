@@ -1,1 +1,2 @@
-Domáca úloha pre predmet PDB. UnclusteredBPTreeSalary from https://github.com/PeterGursky/pdb
+Domáca úloha UnclusteredBPTreeSalary pre predmet PDB.
+https://github.com/PeterGursky/pdb
